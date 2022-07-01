@@ -24,13 +24,13 @@ body {
 }
 
 a {
-  color: rgb(0, 0, 238);
+  color: rgb(50, 115, 220);
 
   @apply underline;
   @apply dark:text-blue-400;
 
   &:visited {
-    color: rgb(85, 26, 139);
+    color: rgb(181, 181, 181);
 
     @apply dark:text-violet-300;
   }
